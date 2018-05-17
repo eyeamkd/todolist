@@ -1,0 +1,18 @@
+.input { 
+display: flex;  
+flex-direction: column; 
+justify-content: center;  
+align-content: center; 
+margin-top:100px;
+ }  
+ .heading { 
+ display: flex; 
+ flex-direction: row; 
+ justify-content: center; 
+  } 
+  .list { 
+  margin-top: 100px; } 
+  .disp{ 
+  display: inline-flex; 
+  flex-wrap: wrap; 
+   }
